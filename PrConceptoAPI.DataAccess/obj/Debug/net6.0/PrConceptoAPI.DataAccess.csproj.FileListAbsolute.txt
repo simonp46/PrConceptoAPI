@@ -1,0 +1,17 @@
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\bin\Debug\net6.0\PrConceptoAPI.DataAccess.deps.json
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\bin\Debug\net6.0\PrConceptoAPI.DataAccess.runtimeconfig.json
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\bin\Debug\net6.0\PrConceptoAPI.DataAccess.dll
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\bin\Debug\net6.0\PrConceptoAPI.DataAccess.pdb
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\bin\Debug\net6.0\PrConceptoAPI.Domain.dll
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\bin\Debug\net6.0\PrConceptoAPI.Domain.pdb
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.AssemblyInfo.cs
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.csproj.CopyComplete
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.dll
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\refint\PrConceptoAPI.DataAccess.dll
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.pdb
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\PrConceptoAPI.DataAccess.genruntimeconfig.cache
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.DataAccess\obj\Debug\net6.0\ref\PrConceptoAPI.DataAccess.dll

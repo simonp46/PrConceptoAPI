@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbJ70PCSV1PFBMCGnGCGi37Xyd0kLnXhSgIIBaac61y2k99JII187m2B2jCZvNX0BMBUMvYQmln1N2gY/mHXTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simon.padron\\Desktop\\Cesde\\Solid\\PrConceptoAPI.Domain\\PrConceptoAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon.padron\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

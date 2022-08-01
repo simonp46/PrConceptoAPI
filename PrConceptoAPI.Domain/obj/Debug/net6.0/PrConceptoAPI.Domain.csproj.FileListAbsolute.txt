@@ -1,0 +1,12 @@
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\bin\Debug\net6.0\PrConceptoAPI.Domain.deps.json
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\bin\Debug\net6.0\PrConceptoAPI.Domain.dll
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\bin\Debug\net6.0\PrConceptoAPI.Domain.pdb
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\PrConceptoAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\PrConceptoAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\PrConceptoAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\PrConceptoAPI.Domain.AssemblyInfo.cs
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\PrConceptoAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\PrConceptoAPI.Domain.dll
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\refint\PrConceptoAPI.Domain.dll
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\PrConceptoAPI.Domain.pdb
+C:\Users\simon.padron\Desktop\Cesde\Solid\PrConceptoAPI.Domain\obj\Debug\net6.0\ref\PrConceptoAPI.Domain.dll
